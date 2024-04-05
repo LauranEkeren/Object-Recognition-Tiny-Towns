@@ -1,0 +1,8 @@
+Cottage
+Kapel
+Boerderij
+Taveerne
+Bron
+Theater
+Fabriek
+Monument

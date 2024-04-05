@@ -1,0 +1,7 @@
+train: ./Dataset2/train
+val: ./Dataset2/val
+test: ./Dataset2/test
+ 
+# Classes
+nc: 8  # number of classes
+names: ['Cottage', 'Kapel', 'Boerderij', 'Taveerne', 'Bron', 'Theater', 'Fabriek', 'Monument']
